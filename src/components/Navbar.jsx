@@ -12,6 +12,7 @@ function Navbar() {
             <div className="collapse navbar-collapse justify-content-end" id="navbarNav">
                 <ul className="navbar-nav">
                     <li className="nav-item"><a className="nav-link" href="#about">About</a></li>
+                    <li className="nav-item"><a className="nav-link font-weight-bold" href="#vision" style={{ color: '#00D8FF' }}>Vision</a></li>
                     <li className="nav-item"><a className="nav-link" href="#skills">Skills</a></li>
                     <li className="nav-item"><a className="nav-link" href="#education">Education</a></li>
                     <li className="nav-item"><a className="nav-link" href="#experience">Experience</a></li>
