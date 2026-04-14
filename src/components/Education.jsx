@@ -10,7 +10,7 @@ function Education() {
             <div className="py-4">
                 <div className="desc">
                     <h4>BS in Data Science & Application</h4>
-                    <p>Indian instituiton of Technology, Madras</p>
+                    <p>Indian Institute of Technology Madras</p>
 
                 </div>
                 <div>
@@ -47,8 +47,10 @@ function Education() {
                                 <p><b>Frontend Intern</b></p>
                             </div>
                             <div>
-                                <li>Selected as a Contributor nation wide for a 3 month coding period.</li>
-                                <li>Developed mini projects in JavaScript.</li>
+                                <ul>
+                                    <li>Selected as a Contributor nationwide for a 3 month coding period.</li>
+                                    <li>Developed mini projects in JavaScript.</li>
+                                </ul>
                             </div>
                         </div>
 
@@ -58,11 +60,13 @@ function Education() {
 
                             </div>
                             <div>
-                                <p>Febuary 2024-March 2024</p>
+                                <p>February 2024 - March 2024</p>
                                 <p><b>Data Science Intern</b></p>
                             </div>
                             <div>
-                                <li>Made ML pipline for image classification.</li>
+                                <ul>
+                                    <li>Built an ML pipeline for image classification.</li>
+                                </ul>
                             </div>
                         </div>
 

@@ -11,9 +11,9 @@ function About() {
                         <h1 className="bold-text">About</h1>
                         <div className="pt-5">
                             <h2 className="mb-5">Hello!</h2>
-                            <p>My name is Pavan. I am pre-final year undergraduate from Government Engineering College,
-                                Dahod And IIT madras(bs program in data science and programming). An avid learner with
-                                interest in Computer Programming Languages, Data Science(AI/ML) and Software
+                            <p>My name is Pavan. I am a pre-final year undergraduate at Government Engineering College,
+                                Dahod, and IIT Madras (BS program in Data Science and Applications). I am an avid learner with
+                                a keen interest in Computer Programming Languages, Data Science (AI/ML), and Software
                                 Development.
                             </p>
 

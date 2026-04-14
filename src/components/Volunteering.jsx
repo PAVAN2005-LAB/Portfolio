@@ -19,20 +19,17 @@ function Volunteering() {
                             <p>Sept 2023 - Present</p>
                         </div>
                         <div>
-                            <li>Mainly involved in conducting talks,workshops and competitions regarding various
-                                technologies.</li>
-
+                            <ul>
+                                <li>Mainly involved in conducting talks, workshops, and competitions regarding various technologies.</li>
+                            </ul>
                         </div>
-                        <div>
+                        <div className="mt-4">
                             <h4>Sports Head Coordinator</h4>
-
-                        </div>
-                        <div>
-                            <p>sept 2024- present</p>
-                        </div>
-                        <div>
-                            <li>conducted various sports competitions and events for students.</li>
-                            <li>raised supposeridship around 200000 form localvendor college trividiya fest</li>
+                            <p>September 2024 - Present</p>
+                            <ul>
+                                <li>Conducted various sports competitions and events for students.</li>
+                                <li>Raised sponsorship of approximately ₹2,00,000 from local vendors for the college Trividya festival.</li>
+                            </ul>
                         </div>
                     </div>
 
